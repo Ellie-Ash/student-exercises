@@ -1,0 +1,11 @@
+/Users/ellieash/workspace/csharp/StudentExercises/bin/Debug/netcoreapp3.0/StudentExercises
+/Users/ellieash/workspace/csharp/StudentExercises/bin/Debug/netcoreapp3.0/StudentExercises.deps.json
+/Users/ellieash/workspace/csharp/StudentExercises/bin/Debug/netcoreapp3.0/StudentExercises.runtimeconfig.json
+/Users/ellieash/workspace/csharp/StudentExercises/bin/Debug/netcoreapp3.0/StudentExercises.runtimeconfig.dev.json
+/Users/ellieash/workspace/csharp/StudentExercises/bin/Debug/netcoreapp3.0/StudentExercises.dll
+/Users/ellieash/workspace/csharp/StudentExercises/bin/Debug/netcoreapp3.0/StudentExercises.pdb
+/Users/ellieash/workspace/csharp/StudentExercises/obj/Debug/netcoreapp3.0/StudentExercises.csprojAssemblyReference.cache
+/Users/ellieash/workspace/csharp/StudentExercises/obj/Debug/netcoreapp3.0/StudentExercises.AssemblyInfoInputs.cache
+/Users/ellieash/workspace/csharp/StudentExercises/obj/Debug/netcoreapp3.0/StudentExercises.AssemblyInfo.cs
+/Users/ellieash/workspace/csharp/StudentExercises/obj/Debug/netcoreapp3.0/StudentExercises.dll
+/Users/ellieash/workspace/csharp/StudentExercises/obj/Debug/netcoreapp3.0/StudentExercises.pdb
